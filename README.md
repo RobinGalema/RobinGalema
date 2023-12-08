@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RobinGalema
+- 👋 Hi, I’m @RobinGalema, Developer @ Moonly Software
 - 👀 I’m interested in Front-end development, App Development & Design
 - 💻 I’m currently working with Flutter, Liquid & building Shopify stores
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/robin-galema/)
